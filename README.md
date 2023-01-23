@@ -1,4 +1,10 @@
 ## IOU Tracker
+
+**Use this command directly to see the results**
+python3 demo.py -d result/result.txt -o res/test/test.txt
+
+----------------------------------------------------------
+
 Python implementation of the IOU/V-IOU Tracker described in the AVSS 2017/2018 papers:
 
 [High-Speed Tracking-by-Detection Without Using Image Information](http://elvera.nue.tu-berlin.de/files/1517Bochinski2017.pdf)
